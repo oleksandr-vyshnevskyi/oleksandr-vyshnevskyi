@@ -1,32 +1,55 @@
-# Hi, I'm Oleksandr 👋
+<p align="center">
+  <img src="./assets/header.jpg" alt="Oleksandr Vyshnevskyi, Frontend Developer" width="100%" />
+</p>
 
-Frontend Developer from Rzeszów, Poland, building websites and web apps for clients worldwide since 2022.
-Currently growing towards full-stack with **Next.js**.
+<p align="center">
+  <a href="https://vyshnevsky.com">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1400&color=3DFF8F&center=true&vCenter=true&width=620&lines=Websites+%26+web+apps+since+2022;React+%C2%B7+TypeScript+%C2%B7+Next.js;Based+in+Rzesz%C3%B3w%2C+Poland" alt="Typing SVG" />
+  </a>
+</p>
 
-### Tech stack
+## About
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+Frontend developer building fast, responsive and accessible websites for clients worldwide since 2022.
+I turn designs and ideas into clean, maintainable code, and I'm currently growing towards full-stack with **Next.js**.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
-  <img alt="3D contribution graph" src="./profile-3d-contrib/profile-green.svg" />
-</picture>
+## Stack
 
-### Selected work
+<p>
+  <img src="https://img.shields.io/badge/React-0B0E0C?style=for-the-badge&logo=react&logoColor=3DFF8F" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-0B0E0C?style=for-the-badge&logo=typescript&logoColor=3DFF8F" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-0B0E0C?style=for-the-badge&logo=javascript&logoColor=3DFF8F" alt="JavaScript" /> <img src="https://img.shields.io/badge/Next.js-0B0E0C?style=for-the-badge&logo=nextdotjs&logoColor=3DFF8F" alt="Next.js" /> <img src="https://img.shields.io/badge/HTML5-0B0E0C?style=for-the-badge&logo=html5&logoColor=3DFF8F" alt="HTML5" /> <img src="https://img.shields.io/badge/SCSS-0B0E0C?style=for-the-badge&logo=sass&logoColor=3DFF8F" alt="SCSS" /> <img src="https://img.shields.io/badge/WordPress-0B0E0C?style=for-the-badge&logo=wordpress&logoColor=3DFF8F" alt="WordPress" /> <img src="https://img.shields.io/badge/Git-0B0E0C?style=for-the-badge&logo=git&logoColor=3DFF8F" alt="Git" /> <img src="https://img.shields.io/badge/Figma-0B0E0C?style=for-the-badge&logo=figma&logoColor=3DFF8F" alt="Figma" />
+</p>
 
-- **[Shelf](https://github.com/oleksandr-vyshnevskyi/react-product-catalog)**: product catalog SPA in React + TypeScript with data from a REST API
-- **[AD Aerospace](https://oleksandr-vyshnevskyi.github.io/AD-Aerospace-Redesign.github.io/)**: full website redesign and custom WordPress theme for an aerospace company
-- **[QBL Systems](https://oleksandr-vyshnevskyi.github.io/QBL.github.io/)**: B2B company website with 20+ pages, built from an agency design
-- **[SkiCarv](https://oleksandr-vyshnevskyi.github.io/Ski-Carv.github.io/)**: ski school website with a trip cost calculator
+## Selected work
 
-### Contact
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://react-product-catalog-ecru.vercel.app/"><img src="./assets/shelf.jpg" alt="Shelf" /></a>
+      <p><b><a href="https://react-product-catalog-ecru.vercel.app/">Shelf</a></b> · <a href="https://github.com/oleksandr-vyshnevskyi/react-product-catalog">code</a><br/>Product catalog SPA with search, filters and product pages.</p>
+    </td>
+    <td width="50%">
+      <a href="https://oleksandr-vyshnevskyi.github.io/AD-Aerospace-Redesign.github.io/"><img src="./assets/ad.jpg" alt="AD Aerospace" /></a>
+      <p><b><a href="https://oleksandr-vyshnevskyi.github.io/AD-Aerospace-Redesign.github.io/">AD Aerospace</a></b> · <a href="https://github.com/oleksandr-vyshnevskyi/AD-Aerospace-Redesign.github.io">code</a><br/>Full redesign and custom WordPress theme for an aerospace company.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://oleksandr-vyshnevskyi.github.io/QBL.github.io/"><img src="./assets/qbl.jpg" alt="QBL Systems" /></a>
+      <p><b><a href="https://oleksandr-vyshnevskyi.github.io/QBL.github.io/">QBL Systems</a></b> · <a href="https://github.com/oleksandr-vyshnevskyi/QBL.github.io">code</a><br/>B2B company website with 20+ pages, built from an agency design.</p>
+    </td>
+    <td width="50%">
+      <a href="https://oleksandr-vyshnevskyi.github.io/Ski-Carv.github.io/"><img src="./assets/ski.jpg" alt="SkiCarv" /></a>
+      <p><b><a href="https://oleksandr-vyshnevskyi.github.io/Ski-Carv.github.io/">SkiCarv</a></b> · <a href="https://github.com/oleksandr-vyshnevskyi/Ski-Carv.github.io">code</a><br/>Ski school website with a trip cost calculator.</p>
+    </td>
+  </tr>
+</table>
 
-[Portfolio](https://vyshnevsky.com) · [LinkedIn](https://linkedin.com/in/oleksandr-vyshnevskyi-dev) · [Email](mailto:oleksandr.vyshnevskyi.work@gmail.com)
+<p align="center"><a href="https://vyshnevsky.com/projects.html">See all projects →</a></p>
+
+## Contact
+
+<p>
+  <a href="https://vyshnevsky.com"><img src="https://img.shields.io/badge/Portfolio-0B0E0C?style=for-the-badge&logo=googlechrome&logoColor=3DFF8F" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/oleksandr-vyshnevskyi-dev"><img src="https://img.shields.io/badge/LinkedIn-0B0E0C?style=for-the-badge&logo=linkedin&logoColor=3DFF8F" alt="LinkedIn" /></a>
+  <a href="mailto:oleksandr.vyshnevskyi.work@gmail.com"><img src="https://img.shields.io/badge/Email-0B0E0C?style=for-the-badge&logo=gmail&logoColor=3DFF8F" alt="Email" /></a>
+</p>
